@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.5.2"
+  },
+  "scripts":{
+    "openapi": "openapi-generator generate -i https://dev.yourapiserver.com/openapi.json -g typescript-axios -o ./models -c ./openapi.json --skip-validate-spec"
+  }
+}

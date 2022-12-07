@@ -1,0 +1,4 @@
+{
+    "modelPackage": "src/model",
+    "apiPackage": "src/api"
+}
