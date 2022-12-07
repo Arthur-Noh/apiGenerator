@@ -1,5 +1,7 @@
 # Swagger Open Api Generator
 
+#### @see https://openapi-generator.tech/docs/installation/
+
 ## 사용방법
 
 ### 1. package.json 으로 들어가 scripts의 주소를 수정한다.
