@@ -15,7 +15,7 @@
 
 ```bash
 # in your command line
-> yarn open api
+> yarn openapi
 ```
 
 ## Mac 에서 수행시 빌드 오류 뜰때
